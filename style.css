@@ -54,20 +54,11 @@ footer {
     bottom: 0;
     width: 100%;
 }
-
 .gallery-container {
     display: flex;
     gap: 15px;
     flex-wrap: wrap;
 }
-
-.gallery-container img {
-    width: 200px;
-    height: auto;
-    border-radius: 8px;
-    box-shadow: 0 0 5px rgba(0,0,0,0.2);
-}
-
 form {
     max-width: 400px;
     display: flex;
